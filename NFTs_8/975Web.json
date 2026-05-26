@@ -1,0 +1,50 @@
+{
+  "format": "CHIP-0007",
+  "name": "Chia Pals #975",
+  "description": "9950 eco-bit NFTs on Chia, from Palsland.",
+  "sensitive_content": false,
+  "collection": {
+    "name": "Chia Pals",
+    "id": "c3cd769d-7b48-4ecb-8899-9097f589cce2",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "9950 eco-bit NFTs on Chia, from PalsLand."
+      },
+      {
+        "type": "twitter",
+        "value": "@ChiaPals"
+      },
+      {
+        "type": "website",
+        "value": "https://chiapals.vercel.app/"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/ChiaPals/ipfs/refs/heads/main/banner.png"
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/ChiaPals/ipfs/refs/heads/main/icon.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn"
+    },
+    {
+      "value": "Zombie",
+      "trait_type": "Type"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Monkey Staff"
+    }
+  ]
+}
